@@ -1,0 +1,8 @@
+$bg-black: rgb(18, 18, 18);
+
+body {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background-color: $bg-black;
+}
